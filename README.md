@@ -6,3 +6,6 @@ maven-web-app
 need to reoubleshoot further
 gkp hello world
 
+I am going to delpoy application 
+tomcat application will be deployed in server
+
